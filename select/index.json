@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+  "base_artist": "TWICE",
+  "createdAt": "2026-03-12T07:57:11.802599Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_TAKEDOWN_(JEONGYEON,_JIHYO,_CHAEYOUNG)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "artist": "Song",
+      "has_synced": true,
+      "path": "select/02_TAKEDOWN_(JEONGYEON,_JIHYO,_CHAEYOUNG)_Song.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TAKEDOWN (JEONGYEON & JIHYO & CHAEYOUNG)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_TAKEDOWN_(JEONGYEON_&_JIHYO_&_CHAEYOUNG)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "artist": "KPop Demon Hunters",
+      "has_synced": true,
+      "path": "select/04_TAKEDOWN_(JEONGYEON,_JIHYO,_CHAEYOUNG)_KPop_Demon_Hunters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "artist": "KPop Demon Hunters Cast",
+      "has_synced": true,
+      "path": "select/05_TAKEDOWN_(JEONGYEON,_JIHYO,_CHAEYOUNG)_KPop_Demon_Hunters_Cast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (Paused)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/06_TAKEDOWN_(JEONGYEON,_JIHYO,_CHAEYOUNG)_(Paused)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG) (from the Netflix film KPop Demon Hunters)",
+      "artist": "Twice",
+      "has_synced": true,
+      "path": "select/07_TAKEDOWN_(JEONGYEON,_JIHYO,_CHAEYOUNG)_(from_the_Netflix_film_KPop_Demon_Hunters_Twice.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_TAKEDOWN_(JEONGYEON,_JIHYO,_CHAEYOUNG)_TWICE.txt"
+    }
+  ]
+}
